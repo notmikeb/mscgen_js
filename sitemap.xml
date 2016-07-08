@@ -1,21 +1,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
   <url>
+<<<<<<< HEAD
     <loc>https://sverweij.github.io/</loc> 
+=======
+    <loc>https://sverweij.github.io/mscgen_js</loc> 
+>>>>>>> 81faf04e2e416c5ba5100cf81cde7609e1833f8e
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://sverweij.github.io/index.html</loc> 
+=======
+    <loc>https://sverweij.github.io/mscgen_js/index.html</loc> 
+>>>>>>> 81faf04e2e416c5ba5100cf81cde7609e1833f8e
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://sverweij.github.io/embed.html</loc> 
+=======
+    <loc>https://sverweij.github.io/mscgen_js/embed.html</loc> 
+>>>>>>> 81faf04e2e416c5ba5100cf81cde7609e1833f8e
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://sverweij.github.io/tutorial.html</loc> 
+=======
+    <loc>https://sverweij.github.io/mscgen_js/tutorial.html</loc> 
+>>>>>>> 81faf04e2e416c5ba5100cf81cde7609e1833f8e
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
